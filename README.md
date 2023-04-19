@@ -22,6 +22,6 @@ Feeling like an eager beaver? Jump in to the quick start docs to get your own Op
 
 Dive a little deeper and start customizing your OpenContent studio however you want, you are in total control
 
-{% content-ref url="reference/customize-opencontent-studio/" %}
-[customize-opencontent-studio](reference/customize-opencontent-studio/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
