@@ -53,6 +53,19 @@ You can do this by running
 git clone https://github.com/Jarvis-Nu/OpenContent.git
 ```
 
+## Go into the ui directory
+
+To can do this by running
+
+{% hint style="info" %}
+How you do this depends on your package manager, the following assumes you are using npmcode
+{% endhint %}
+
+```
+// Enter ui directory
+cd ui
+```
+
 ## Set your Web3 Storage Api key
 
 You can get this by creating an account from web3 storage [here](https://web3.storage)
