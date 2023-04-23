@@ -50,7 +50,7 @@ You can do this by running
 
 ```
 // Clone OpenContent studio into your project
-git clone https://github.com/Jarvis-Nu/OpenContent.git
+git clone https://github.com/Jarvis-Nu/opencontent-studio.git
 ```
 
 ## Go into the ui directory
