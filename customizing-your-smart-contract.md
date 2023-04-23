@@ -13,7 +13,7 @@ Surprisingly unless you are redeploying your studio on another network there is 
 You can do this by running
 
 ```
-// open contracts
+// open contracts folder from the roots folder
 cd contracts
 ```
 

@@ -5,4 +5,5 @@
 * [Customizing your studio](customizing-your-studio.md)
 * [Customizing your smart contract](customizing-your-smart-contract.md)
 * [Customizing your subgraph](customizing-your-subgraph.md)
+* [Modify studio ui](modify-studio-ui.md)
 * [Fetching data to your frontend](fetching-data-to-your-frontend.md)

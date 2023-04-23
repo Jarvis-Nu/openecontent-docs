@@ -33,7 +33,7 @@ Here are how you customize your subgraph if you redeployed your smart contract
 You can do this by running
 
 ```
-// open subgraph folder
+// open subgraph folder from the root folder
 cd subgraph
 ```
 
@@ -80,7 +80,7 @@ dataSources:
 
 If your smart contract is redeployed you need to change
 
-* network (If redeployed to another network)
+* network (network your smart contract is on)
 * address (new smart contract address)
 * startBlock (block number the smart contract was created)
 * abi file field (change the abi file path from ./abis/OpenContent.json to the relative path of the abi gotten from the smart contract, the abi file should only contain the information on abi field of the abi file gotten from the smart contract)
