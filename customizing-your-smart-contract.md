@@ -43,7 +43,7 @@ You will need a few of the tokens on your blockchain of choice to pay gas fees o
 
 ## Modify the hardhat.config file
 
-By default the studio is deployed on the optimism network let's say you wanted your studio on the polygon mumbai network your hardhat.config file will look like
+By default the studio is deployed on the optimism-georli network let's say you wanted your studio on the polygon mumbai network your hardhat.config file will look like
 
 ```
 // Sample hardhat.config file
