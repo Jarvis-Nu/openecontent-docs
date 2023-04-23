@@ -1,5 +1,7 @@
 ---
-description: In this tutorial you will learn how to customize your studio to fit your needs
+description: >-
+  In this tutorial you will learn how to customize your studio to fit your
+  needs.
 ---
 
 # Customizing your studio
